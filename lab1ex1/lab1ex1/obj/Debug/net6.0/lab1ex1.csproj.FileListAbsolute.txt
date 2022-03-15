@@ -1,0 +1,15 @@
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\lab1ex1.exe
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\lab1ex1.deps.json
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\lab1ex1.runtimeconfig.json
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\lab1ex1.dll
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\ref\lab1ex1.dll
+D:\University\TSPP\lab1ex1\lab1ex1\bin\Debug\net6.0\lab1ex1.pdb
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.csproj.AssemblyReference.cache
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.AssemblyInfoInputs.cache
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.AssemblyInfo.cs
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.csproj.CoreCompileInputs.cache
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.dll
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\ref\lab1ex1.dll
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.pdb
+D:\University\TSPP\lab1ex1\lab1ex1\obj\Debug\net6.0\lab1ex1.genruntimeconfig.cache
